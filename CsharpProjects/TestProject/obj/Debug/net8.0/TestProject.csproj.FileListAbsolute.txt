@@ -1,0 +1,14 @@
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/dam123/Desktop/C#/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
